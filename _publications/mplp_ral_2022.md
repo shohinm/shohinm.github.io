@@ -1,7 +1,7 @@
 ---
 title: "MPLP: Massively Parallelized Lazy Planning"
 collection: publications
-permalink: /publication/mplp_ral_22
+permalink: /publication/mplp_ral_2022
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-03-08
 venue: 'IEEE Robotics and Automation Letters'

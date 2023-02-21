@@ -1,7 +1,7 @@
 ---
 title: "ePA*SE: Edge-Based Parallel A* for Slow Evaluations"
 collection: publications
-permalink: /publication/epase_socs_22
+permalink: /publication/epase_socs_2022
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-07-17
 venue: 'Proceedings of the Symposium on Combinatorial Search'
